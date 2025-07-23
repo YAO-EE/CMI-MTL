@@ -1,4 +1,4 @@
-# M3AE
+# CMI-MTL
 
 This is the official implementation of [CMI-MTL: Cross-Mamba interaction based multi-task learning for medical visual question answering] at PG-2025.
 
